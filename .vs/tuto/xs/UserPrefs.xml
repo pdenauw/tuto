@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1365D0B4-11B9-3952-A72F-9AB981DCBFCC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ladder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="61" Column="51" />
+      <File FileName="Assets/Scripts/Ladder.cs" Line="17" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tuto" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Ladder.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3625b03d-5937-486f-8154-789ae0134446" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
